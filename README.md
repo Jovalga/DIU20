@@ -42,7 +42,7 @@ Me ha parecido muy interesante el primer contacto visual que ofrece *Badi*, ya q
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-He seleccionado a las dos personas siguientes:
+He seleccionado a las siguientes personas:
 
 ![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Antonio%20Jim%C3%A9nez.jpg "Persona 1")
 
