@@ -35,7 +35,7 @@ Las aplicaciones asignadas que he visto han sido las relacionadas con **Experien
 
 He dudado entre la seleccionada y *Couchsurfing* debido a que esta segunda es más reconocida por antigüedad, en cambio he visto a *Badi* como una plataforma más minimalista e intuitiva, además de ofrecer funcionalidades desde el principio sin necesidad de registrarse y tener que lidiar con una interfaz algo sobrecargada como es la de *Couchsurfing*.
 
-Me ha parecido muy interesante el primer contecto visual que ofrece *Badi*, ya que se diferencia muy bien los dos roles que ofrece a sus usuarios, **Buscar** o **Publicar** una habitación.
+Me ha parecido muy interesante el primer contacto visual que ofrece *Badi*, ya que se diferencia muy bien los dos roles que ofrece a sus usuarios, **Buscar** o **Publicar** una habitación.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
