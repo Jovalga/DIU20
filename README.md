@@ -71,7 +71,11 @@ Por último está Cristian que es quién quiere publicar su habitación libre pa
 ![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Experiencia%20Usuario%20Sofia.png "Experiencia Sofía 2")
 
 ### Experiencia de usuario de Cristian:
+![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Experiencia%20Usuario%20Cristian.png "Experiencia Cristian 3")
 
+
+#### Comentarios:
+He escogido estas tres experiencias porque creo que reflejan tres roles muy comunes en los usuarios de hoy en día, gente muy acostumbrada a lidiar con interfaces modernas de todo tipo como Sofía, personas como Antonio que cada cambio les supone un desafío para orientarse y saber encontrar lo que realmente quieren dentro de una web, y personas como Cristian, que quieren tener la seguridad de que sus datos y las personas con las que va a tratar son de total confianza, por lo que se requiere de mucha información disponible para el usuario que la necesite, sin entorpecer el buen uso de la web o app. Es por esa razón que la interfaz juega un papel muy importante.
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
