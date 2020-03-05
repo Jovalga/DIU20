@@ -64,6 +64,16 @@ Por último está Cristian que es quién quiere publicar su habitación libre pa
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
+### Experiencia de usuario de Antonio:
+![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Experiencia%20Usuario%20Antonio.png "Experiencia Antonio 1")
+
+### Experiencia de usuario de Sofía:
+![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Experiencia%20Usuario%20Sofia.png "Experiencia Sofía 2")
+
+### Experiencia de usuario de Cristian:
+
+
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
