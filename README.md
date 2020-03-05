@@ -42,6 +42,19 @@ Me ha parecido muy interesante el primer contacto visual que ofrece *Badi*, ya q
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+He seleccionado a las dos personas siguientes:
+
+![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Antonio%20Jim%C3%A9nez.jpg "Persona 1")
+
+y
+
+![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Sof%C3%ADa%20Porter.jpg "Persona 2")
+
+He seleccionado a estas dos personas porque pienso que pueden ver y hacer uso de una aplicación de formas muy diferentes en relación a como se presente la interfaz de usuario.
+
+Antonio es una persona que tiene poca relación con las nuevas tecnologías, de modo que no es flexible y le cuesta mucho adaptarse a nuevas interfaces que no conoce, mientras que Sofía se adapta muy rápidamente a las interfaces más actuales de hoy en día, pero no soporta aquellas apps que no son intuitivas o requieren más tiempo del que ella quiere dar.
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
