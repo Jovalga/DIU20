@@ -46,8 +46,6 @@ He seleccionado a las siguientes personas:
 
 ![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Antonio%20Jim%C3%A9nez.jpg "Persona 1")
 
-y
-
 ![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Sof%C3%ADa%20Porter.jpg "Persona 2")
 
 He seleccionado a estas dos personas porque pienso que pueden ver y hacer uso de una aplicación de formas muy diferentes en relación a como se presente la interfaz de usuario.
