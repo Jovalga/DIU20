@@ -31,6 +31,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+Las aplicaciones asignadas que he visto han sido las relacionadas con **Experiencia de compartir alojamiento**, y tras observar varias me he decantado por...
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
