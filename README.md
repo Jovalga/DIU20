@@ -87,6 +87,13 @@ Es por esa razón que la interfaz juega un papel muy importante.
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+[Informe de usabilidad](https://github.com/Jovalga/DIU20/blob/master/P1/Usability-review.pdf "Informe de usabilidad 3")
+
+### Valoración: 82 / 100
+
+### Comentario:
+
+
 
 ## Paso 2. UX Design  
 
