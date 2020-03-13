@@ -50,12 +50,8 @@ He seleccionado a las siguientes personas:
 
 ![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
 
+He seleccionado a estas tres personas porque creo que pueden ofrecer puntos de vista diferentes unos de otros.
 
-He seleccionado a las dos primeras personas porque pienso que pueden ver y hacer uso de una aplicación de formas muy diferentes en relación a como se presente la interfaz de usuario con respecto a la búsqueda de una habitación. Además Sofía va a hacer uso de la aplicación web mediante un Smartphone, por lo que cambiará la interfaz respecto a la de Antonio, que lo realizará mediante una pantalla más grande, en el ordenador.
-
-Antonio es una persona que tiene poca relación con las nuevas tecnologías, de modo que no es flexible y le cuesta mucho adaptarse a nuevas interfaces que no conoce, mientras que Sofía se adapta muy rápidamente a las interfaces más actuales de hoy en día, pero no soporta aquellas apps que no son intuitivas o requieren más tiempo del que ella quiere dar.
-
-Por último está Cristian, que es quien quiere publicar su habitación para que se alquile dentro de la aplicación.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
