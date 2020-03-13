@@ -30,7 +30,8 @@ He seleccionado a las siguientes personas:
 
 He seleccionado a estas tres personas porque creo que pueden ofrecer puntos de vista diferentes unos de otros.
 
-Además tienen distintas habilidades
+Además tienen distintas habilidades con la tecnoloogía y motivaciones por lo que los resultados y las formas de ver y hacer las cosas pueden arrojar buenos resultados.
+
 
 3 - User Journey Map
 ----
