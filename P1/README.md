@@ -7,7 +7,7 @@
 - Revisión de Usabilidad 
 
 
-![Método UX](img/Competitive.png) 1 - Competitive Analysis
+1 - Competitive Analysis
 -----
 
 Las aplicaciones asignadas que he visto han sido las relacionadas con **Experiencia de compartir alojamiento**, y tras observarlas me he decantado por **Badi**.
@@ -16,7 +16,7 @@ He dudado entre la seleccionada y *Couchsurfing* debido a que esta segunda es m�
 
 Me ha parecido muy interesante el primer contacto visual que ofrece *Badi*, ya que se diferencian muy bien los dos roles que ofrece a sus usuarios, **Buscar** o **Publicar** una habitación, de modo que cualquier nuevo usuario se sabrá situar con gran facilidad y hacer el uso esperado por los desarrolladores de la aplicación web.
 
-![Método UX](img/Persona.png) 2 - Persona
+2 - Persona
 -----
 
 He seleccionado a las siguientes personas:
@@ -28,14 +28,11 @@ He seleccionado a las siguientes personas:
 ![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
 
 
-He seleccionado a las dos primeras personas porque pienso que pueden ver y hacer uso de una aplicación de formas muy diferentes en relación a como se presente la interfaz de usuario con respecto a la búsqueda de una habitación. Además Sofía va a hacer uso de la aplicación web mediante un Smartphone, por lo que cambiará la interfaz respecto a la de Antonio, que lo realizará mediante una pantalla más grande, en el ordenador.
+He seleccionado a estas tres personas porque creo que pueden ofrecer puntos de vista diferentes unos de otros.
 
-Antonio es una persona que tiene poca relación con las nuevas tecnologías, de modo que no es flexible y le cuesta mucho adaptarse a nuevas interfaces que no conoce, mientras que Sofía se adapta muy rápidamente a las interfaces más actuales de hoy en día, pero no soporta aquellas apps que no son intuitivas o requieren más tiempo del que ella quiere dar.
+Además tienen distintas habilidades
 
-Por último está Cristian, que es quien quiere publicar su habitación para que se alquile dentro de la aplicación.
-
-
-![Método UX](img/JourneyMap.png) 3 - User Journey Map
+3 - User Journey Map
 ----
 
 
@@ -54,7 +51,7 @@ He escogido estas tres experiencias porque creo que reflejan tres roles muy comu
 Es por esa razón que la interfaz juega un papel muy importante.
 
 
-![Método UX](img/usabilityReview.png) 4 - Usability Review
+4 - Usability Review
 ----
 
 ### [Informe de usabilidad](https://github.com/Jovalga/DIU20/blob/master/P1/Usability-review.pdf "Informe de usabilidad 3")
