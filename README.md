@@ -31,11 +31,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
-Las aplicaciones asignadas que he visto han sido las relacionadas con **Experiencia de compartir alojamiento**, y tras observarlas me he decantado por **Badi**.
+He visto a **Badi** como una plataforma más minimalista e intuitiva, además de ofrecer funcionalidades desde el principio sin necesidad de registrarse y tener que lidiar con una interfaz algo sobrecargada para nuevos usuarios como es la de *Couchsurfing*.
 
-He dudado entre la seleccionada y *Couchsurfing* debido a que esta segunda es más reconocida por antigüedad, en cambio he visto a *Badi* como una plataforma más minimalista e intuitiva, además de ofrecer funcionalidades desde el principio sin necesidad de registrarse y tener que lidiar con una interfaz algo sobrecargada para nuevos usuarios como es la de *Couchsurfing*.
-
-Me ha parecido muy interesante el primer contacto visual que ofrece *Badi*, ya que se diferencian muy bien los dos roles que ofrece a sus usuarios, **Buscar** o **Publicar** una habitación, de modo que cualquier nuevo usuario se sabrá situar con gran facilidad y hacer el uso esperado por los desarrolladores de la aplicación web.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
