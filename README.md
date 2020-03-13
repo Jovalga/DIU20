@@ -45,7 +45,7 @@ He seleccionado a las siguientes personas:
 
 [Sofía Porter](https://github.com/Jovalga/DIU20/blob/master/P1/Sof%C3%ADa%20Porter.jpg "Persona 2")
 
-[Cristina Romero](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
+[Cristian Romero](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
 
 He seleccionado a estas tres personas porque creo que pueden ofrecer puntos de vista diferentes unos de otros.
 
