@@ -44,11 +44,11 @@ Me ha parecido muy interesante el primer contacto visual que ofrece *Badi*, ya q
 
 He seleccionado a las siguientes personas:
 
-![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Antonio%20Jim%C3%A9nez.jpg "Persona 1")
+[Antonio Jiménez](https://github.com/Jovalga/DIU20/blob/master/P1/Antonio%20Jim%C3%A9nez.jpg "Persona 1")
 
-![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Sof%C3%ADa%20Porter.jpg "Persona 2")
+[Sofía Porter](https://github.com/Jovalga/DIU20/blob/master/P1/Sof%C3%ADa%20Porter.jpg "Persona 2")
 
-![alt text](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
+[Cristina Romero](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
 
 He seleccionado a estas tres personas porque creo que pueden ofrecer puntos de vista diferentes unos de otros.
 
