@@ -14,3 +14,4 @@ Wireframe & User flow
 2 - User Task Matrix
 -----
 
+![User Task Matrix](https://github.com/Jovalga/DIU20/blob/master/P2/User%20Task%20Matrix.jpg "User Task Matrix")
