@@ -104,17 +104,21 @@ Como conclusión decir que **Badi** es un sitio muy orientado a la sencillez, mi
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-  
+  [Mi Feedback Capture Grid](https://github.com/Jovalga/DIU20/blob/master/P2/Feedback%20Capture%20Grid.jpg "Feedback Capture Grid")
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
+La idea más interesante sería añadir una agenda cultural de modo que se puedan publicar eventos a los que la gente pueda ir. También mencionar el añadido de ayuda por voz entre otros.
+
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+
+[Mi User Task Matrix](https://github.com/Jovalga/DIU20/blob/master/P2/User%20Task%20Matrix.jpg "User Task Matrix")
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
