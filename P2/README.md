@@ -16,7 +16,7 @@ Wireframe & User flow
 
 ![User Task Matrix](https://github.com/Jovalga/DIU20/blob/master/P2/User%20Task%20Matrix.jpg "User Task Matrix")
 
-3 - SiteMap y Labelling
+3 - Arquitectura de la Información (SiteMap y Labelling)
 -----
 
 ![SiteMap](https://github.com/Jovalga/DIU20/blob/master/P2/Sitemap.jpg "SiteMap")
