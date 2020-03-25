@@ -132,6 +132,7 @@ Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
+[Mi Labelling](https://github.com/Jovalga/DIU20/blob/master/P2/Labelling.jpg "Labelling")
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
