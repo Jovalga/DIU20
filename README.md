@@ -120,6 +120,7 @@ La idea más interesante sería añadir una agenda cultural de modo que se pueda
 
 [Mi User Task Matrix](https://github.com/Jovalga/DIU20/blob/master/P2/User%20Task%20Matrix.jpg "User Task Matrix")
 
+[Mi Sitemap](https://github.com/Jovalga/DIU20/blob/master/P2/Sitemap.jpg "SiteMap")
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
