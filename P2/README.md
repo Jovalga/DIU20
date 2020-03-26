@@ -29,7 +29,10 @@ Tras analizar las experiencias de usuario y conocer las sugerencias de nuestras 
 -----
 
 ... A COMPLETAR ... (Explicar brevemente el siguiente SiteMap [Leyenda])
+... A COMPLETAR ... (Pensar mejor labelling [Leyenda])
 
 ![SiteMap](https://github.com/Jovalga/DIU20/blob/master/P2/Sitemap.jpg "SiteMap")
+
+
 
 ![Labelling](https://github.com/Jovalga/DIU20/blob/master/P2/Labelling.jpg "Labelling")
