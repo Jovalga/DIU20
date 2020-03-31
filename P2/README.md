@@ -35,9 +35,6 @@ Con todas estas nuevas características se conseguirá una aplicación más clar
 2 - User Task Matrix
 -----
 
-*... A COMPLETAR ... (Definir las tareas de forma más funcional [Mostrar Notificación --> Suscribirse a notificaciones, Desuscribirse de notificaciones], respecto al Feedback Capture Grid y la propuesta)*
-
-
 ![User Task Matrix](https://github.com/Jovalga/DIU20/blob/master/P2/User%20Task%20Matrix.jpg "User Task Matrix")
 
 3 - Arquitectura de la Información (SiteMap y Labelling)
