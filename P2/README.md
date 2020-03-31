@@ -25,6 +25,7 @@ Con respecto a la *Búsqueda* vamos a separlo en dos tipos de búsqueda:
   <li>Mapa: Veremos en tiempo real las ofertas publicadas sobre el mapa.</li>
   <li>Tradicional: Nos arrojará resultados tras rellenar un campo de texto con la ciudad donde buscar.</li>
  </ol>
+
 Ambas búsquedas se pueden ajustar gracias a una serie de filtros, como precio, puntuación, tamaño,etc. Además se podrán guardar publicaciones en favoritos para que los usuarios puedan volver a encontrar habitaciones interesantes de búsquedas previas. Tras seleccionar una publicación se podrá enviar una consulta incluso sin estar registrado, pero en este caso se deberá aportar un email para recibir respuesta. Con usuarios registrados esta comunicación se puede dar con el sistema de mensajería interna de la aplicación.
 
 Con respecto a la **ayuda**, se implementará un chat en directo con agentes 24 horas para responder cualquier pregunta, un FAQ donde estarán las respuestas a las dudas más comunes y un asistente de voz para personas que lo necesiten.
