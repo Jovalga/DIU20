@@ -15,8 +15,8 @@ Tras analizar las experiencias de usuario y conocer las sugerencias de nuestras 
 
 La propuesta es mejorar lo que ya tiene *Badi* en una nueva app, ya que podemos usarlo como base gracias a lo minimalista que es esta plataforma.
 
-Como añadido destacado se va a implementar una **agenda cultural**. Esta agenda se entiende como un sitio donde los usuarios registrados pueden publicar eventos, ya sean públicos o privados, a los que otros usuarios de la plataforma pueden registrar su asistencia. Dependiendo del evento se requerirá identificación en el sistema o no para registrar la asistencia al mismo.
-Como enlace a y plusvalía a las dos funciones principales (Buscar y Publicar) se enlazarán estos eventos a las habitaciones, de modo que dado el lugar de una habitación se ofrecerán eventos cercanos tras la reserva de la habitación.
+Como añadido destacado se va a implementar una **agenda cultural**. Esta agenda se entiende como un sitio donde los usuarios registrados pueden publicar eventos, ya sean públicos o privados, a los que otros usuarios de la plataforma pueden registrar su asistencia. Dependiendo del evento se requerirá identificación en el sistema para registrar la asistencia al mismo.
+Esta nueva función sirve de enlace a las dos funciones principales (Buscar y Publicar) de modo que estos eventos quedarán conectados a las habitaciones, asi, conocido el lugar de una habitación, se ofrecerán eventos cercanos tras la reserva de la misma.
 
 Con todo esto vamos a respetar funciones como **Buscar y Publicar habitaciones**, pero vamos a mejorarlas. Para ello en el caso de la *Publicación* vamos a dar la posibilidad de que no solo se pueda publicar una habitación, sino que sea posible poner más de una en una misma publicación, y asociar distinas especificaciones y precios por separado, además de dar la posibilidad de alquilar el piso entero.
 
