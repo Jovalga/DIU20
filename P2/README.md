@@ -19,10 +19,17 @@ Como añadido destacado se va a implementar una **agenda cultural**. Esta agenda
 Como enlace a y plusvalía a las dos funciones principales (Buscar y Publicar) se enlazarán estos eventos a las habitaciones, de modo que dado el lugar de una habitación se ofrecerán eventos cercanos tras la reserva de la habitación.
 
 Con todo esto vamos a respetar funciones como **Buscar y Publicar habitaciones**, pero vamos a mejorarlas. Para ello en el caso de la *Publicación* vamos a dar la posibilidad de que no solo se pueda publicar una habitación, sino que sea posible poner más de una en una misma publicación, y asociar distinas especificaciones y precios por separado, además de dar la posibilidad de alquilar el piso entero.
-Con respecto a la búsqueda vamos a separlo en dos tipos de búsqueda, una por mapa, donde veremos en tiempo real las ofertas publicadas sobre el mapa, y una búsqueda más tradicional por resultados, que rellenando un campo donde se indica la ciudad donde buscar nos arrojará resultados. Ambas búsquedas se pueden ajustar gracias a una serie de filtros, como precio, puntuación, tamaño,etc.
+
+Con respecto a la *Búsqueda* vamos a separlo en dos tipos de búsqueda:
+<ol>
+  <li>Mapa: Veremos en tiempo real las ofertas publicadas sobre el mapa.</li>
+  <li>Tradicional: Nos arrojará resultados tras rellenar un campo de texto con la ciudad donde buscar.</li>
+ </ol>
+Ambas búsquedas se pueden ajustar gracias a una serie de filtros, como precio, puntuación, tamaño,etc. Además se podrán guardar publicaciones en favoritos para que los usuarios puedan volver a encontrar habitaciones interesantes de búsquedas previas. Tras seleccionar una publicación se podrá enviar una consulta incluso sin estar registrado, pero en este caso se deberá aportar un email para recibir respuesta. Con usuarios registrados esta comunicación se puede dar con el sistema de mensajería interna de la aplicación.
 
 Con respecto a la **ayuda**, se implementará un chat en directo con agentes 24 horas para responder cualquier pregunta, un FAQ donde estarán las respuestas a las dudas más comunes y un asistente de voz para personas que lo necesiten.
 
+Con todas estas nuevas características se conseguirá una aplicación más clara, eficiente y funcional que *Badi*.
 
 2 - User Task Matrix
 -----
