@@ -18,7 +18,7 @@ La propuesta es mejorar lo que ya tiene *Badi* en una nueva app, ya que podemos 
 Como añadido destacado se va a implementar una **agenda cultural**. Esta agenda se entiende como un sitio donde los usuarios registrados pueden publicar eventos, ya sean públicos o privados, a los que otros usuarios de la plataforma pueden registrar su asistencia. Dependiendo del evento se requerirá identificación en el sistema para registrar la asistencia al mismo.
 Esta nueva función sirve de enlace a las dos funciones principales (Buscar y Publicar) de modo que estos eventos quedarán conectados a las habitaciones, asi, conocido el lugar de una habitación, se ofrecerán eventos cercanos tras la reserva de la misma.
 
-Con todo esto vamos a respetar funciones como **Buscar y Publicar habitaciones**, pero vamos a mejorarlas. Para ello en el caso de la *Publicación* vamos a dar la posibilidad de que no solo se pueda publicar una habitación, sino que sea posible poner más de una en una misma publicación, y asociar distinas especificaciones y precios por separado, además de dar la posibilidad de alquilar el piso entero.
+Con todo esto vamos a respetar funciones como **Buscar y Publicar habitaciones**, pero vamos a mejorarlas. Para ello, en el caso de la *Publicación*, vamos a dar la posibilidad de que no solo se pueda publicar una habitación, sino que sea posible poner más de una para una misma publicación, y asociar distinas especificaciones y precios por separado, además de dar la posibilidad de alquilar el piso entero.
 
 Con respecto a la *Búsqueda* vamos a separlo en dos tipos de búsqueda:
 <ol>
@@ -26,9 +26,9 @@ Con respecto a la *Búsqueda* vamos a separlo en dos tipos de búsqueda:
   <li>Tradicional: Nos arrojará resultados tras rellenar un campo de texto con la ciudad donde buscar.</li>
  </ol>
 
-Ambas búsquedas se pueden ajustar gracias a una serie de filtros, como precio, puntuación, tamaño,etc. Además se podrán guardar publicaciones en favoritos para que los usuarios puedan volver a encontrar habitaciones interesantes de búsquedas previas. Tras seleccionar una publicación se podrá enviar una consulta incluso sin estar registrado, pero en este caso se deberá aportar un email para recibir respuesta. Con usuarios registrados esta comunicación se puede dar con el sistema de mensajería interna de la aplicación.
+Ambas búsquedas se pueden ajustar gracias a una serie de filtros, como precio, puntuación, tamaño, etc. Además se podrán guardar publicaciones en favoritos para que los usuarios puedan volver a encontrar habitaciones interesantes de búsquedas previas. Tras seleccionar una publicación se podrá enviar una consulta incluso sin estar registrado, pero en este caso se deberá aportar un email para recibir respuesta. Con usuarios registrados esta comunicación se puede dar con el sistema de mensajería interna de la aplicación.
 
-Con respecto a la **ayuda**, se implementará un chat en directo con agentes 24 horas para responder cualquier pregunta, un FAQ donde estarán las respuestas a las dudas más comunes y un asistente de voz para personas que lo necesiten.
+Con respecto a la **ayuda**, se implementará un chat en directo con agentes disponibles las 24 horas para responder cualquier pregunta, un FAQ donde estarán las respuestas a las dudas más comunes y un asistente de voz para personas que lo necesiten.
 
 Con todas estas nuevas características se conseguirá una aplicación más clara, eficiente y funcional que *Badi*.
 
