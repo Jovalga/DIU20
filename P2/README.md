@@ -49,3 +49,9 @@ Tenemos en un primer nivel las funciones principales, y bajo estas, las funcione
 
 ### Labelling:
 ![Labelling](https://github.com/Jovalga/DIU20/blob/master/P2/Labelling.jpg "Labelling")
+
+
+4 - Wireframes
+-----
+
+A continuación dejo planteado el diseño de la aplicación.
