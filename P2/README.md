@@ -48,6 +48,9 @@ El SiteMap de la nueva aplicación es el siguiente:
 Tenemos en un primer nivel las funciones principales, y bajo estas, las funciones dependientes de ellas. Vamos a destacar mucho *Encuentra tu habitación* y *Publica tu habitación* ya que considero que son las funciones principales de la app.
 
 ### Labelling:
+
+Para mejor comprensión del SiteMap aporto el Labelling:
+
 ![Labelling](https://github.com/Jovalga/DIU20/blob/master/P2/Labelling.jpg "Labelling")
 
 
@@ -55,3 +58,16 @@ Tenemos en un primer nivel las funciones principales, y bajo estas, las funcione
 -----
 
 A continuación dejo planteado el diseño de la aplicación.
+
+![WF_Inicio](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/Inicio.jpg "WF_Inicio")
+***
+![WF_Tradicional](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/Tradicional.jpg "WF_Tradicional")
+***
+![WF_Mapa](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/Mapa.jpg "WF_Mapa")
+***
+![WF_Habitación](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/Habitaci%C3%B3n.jpg "WF_Habitación")
+***
+![WF_Pago_Online](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/Pago%20Online.jpg "WF_Pago_Online")
+***
+![WF_Publica_tu_habitación](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/Publica%20tu%20habitaci%C3%B3n.jpg "WF_Publica_tu_habitación")
+***
