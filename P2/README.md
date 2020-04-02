@@ -40,11 +40,12 @@ Con todas estas nuevas características se conseguirá una aplicación más clar
 3 - Arquitectura de la Información (SiteMap y Labelling)
 -----
 
-*... A COMPLETAR ... (Explicar brevemente el siguiente SiteMap [Leyenda])*
-*... A COMPLETAR ... (Pensar mejor labelling [Leyenda])*
+### SiteMap:
+El SiteMap de la nueva aplicación es el siguiente:
 
 ![SiteMap](https://github.com/Jovalga/DIU20/blob/master/P2/Sitemap.jpg "SiteMap")
 
+Tenemos en un primer nivel las funciones principales, y bajo estas, las funciones dependientes de ellas. Vamos a destacar mucho *Encuentra tu habitación* y *Publica tu habitación* ya que considero que son las funciones principales de la app.
 
-
+### Labelling:
 ![Labelling](https://github.com/Jovalga/DIU20/blob/master/P2/Labelling.jpg "Labelling")
