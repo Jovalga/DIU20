@@ -47,6 +47,10 @@ El SiteMap de la nueva aplicación es el siguiente:
 
 Tenemos en un primer nivel las funciones principales, y bajo estas, las funciones dependientes de ellas. Vamos a destacar mucho *Encuentra tu habitación* y *Publica tu habitación* ya que considero que son las funciones principales de la app.
 
+Cabe mencionar que *Encuentra tu habitación* no va a tener un sitio en sí, sino que cuando se rellene el formulario de búsqueda se redirigirá directamente a *Tradicional* (búsqueda por resultados) pudiendo ir a búsquedas por mapa desde ahí, y viceversa, pero la aplicación siempre recordará cuál fué el último tipo de búsqueda usado, de modo que cuando se vuelva a buscar algo, se usará el modo de búsqueda usado por última vez.
+
+Decir también que *Información* es una página que tiene toda la información del sitio, junto con información de carácter legal. La idea es que el footer contenga los enlaces a todas las secciones de esta página, de modo que apartamos la información de lugares con funcionalidades muy importantes como es el navegador superior. De esta forma le damos al footer una función importante, y así aquellos usuarios que quieran tener mucha más información de la aplicación lo podrán hacer de forma sencilla, ya que toda esta información estará junta en un mismo lugar y no esparcida en distintas partes de la página.
+
 ### Labelling:
 
 Para mejor comprensión del SiteMap aporto el Labelling:
