@@ -49,7 +49,7 @@ Tenemos en un primer nivel las funciones principales, y bajo estas, las funcione
 
 Cabe mencionar que *Encuentra tu habitación* no va a tener un sitio en sí, sino que cuando se rellene el formulario de búsqueda se redirigirá directamente a *Tradicional* (búsqueda por resultados) pudiendo ir a búsquedas por mapa desde ahí, y viceversa, pero la aplicación siempre recordará cuál fué el último tipo de búsqueda usado, de modo que cuando se vuelva a buscar algo, se usará el modo de búsqueda usado por última vez.
 
-Decir también que *Información* es una página que tiene toda la información del sitio, junto con información de carácter legal. La idea es que el footer contenga los enlaces a todas las secciones de esta página, de modo que apartamos la información de lugares con funcionalidades muy importantes como es el navegador superior. De esta forma le damos al footer una función importante, y así aquellos usuarios que quieran tener mucha más información de la aplicación lo podrán hacer de forma sencilla, ya que toda esta información estará junta en un mismo lugar y no esparcida en distintas partes de la página.
+Decir también que *Información* será el lugar donde se colocará toda la información del sitio, junto con información de carácter legal.
 
 ### Labelling:
 
