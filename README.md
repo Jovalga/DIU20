@@ -139,6 +139,8 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+[Ver Wireframes](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/README.md
+ "Wireframes")
 
 ## Paso 3. Make (Prototyping) 
 
