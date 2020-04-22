@@ -145,27 +145,39 @@ Término | Significado
 ## Paso 3. Make (Prototyping) 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Cómo se cuenta un UX-Case Study?
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Analizar lo aprendido de la experiencia de MuseApp 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+MuseApp realiza un UX-Case Study muy completo, partiendo de analizar rápidamente si es factible la aplicación que quieren llevar a cabo y realizando un análisis de la competencia así como un mapa de empatía y mapa de afinidad para conocer a sus potenciales usuarios y saber explorar la necesidad que cubriría esta app.
+
+Tras esto siguen todos los pasos parecidos a los que hemos realizado en esta asignatura con la diferencia de que ellos realizan una matriz 4x4 para analizar aquellas funciones a implementar atendiendo a una relación <em>coste / recompensa</em>. Este aspecto es el que más me ha llamado la atención, ya que es una forma muy rápida y práctica de saber qué implementar y qué no  y ver así aquellas funciones que, pese a que estaría bien tenerlas, el esfuerzo de la implementación traería grandes problemas.
+
+
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
->>> Plantear Landing Page 
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
+>>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
-![Método UX](img/mockup.png)  3.d Mockup
+He usado cuatro colores básicos, siendo negro y blanco dos colores muy usados hoy en día, elegantes y que crean una buena base para cualquier app, mientras que para destacar me he decantado por dos colores con una paleta de azul-verde.
+
+Con respecto a la tipografía he decidido usar la fuente <em>Kozuka Gothic Pro</em> ya que resulta elegante y muy fácil de leer, además de que es una fuente que contempla todos los caracteres del alfabeto castellano (acentos y caracter ñ).
+
+Los iconos han sido escogidos de fontawesome.io y se usarán para remarcar opciones como buscar, subir archivo, eventos, mensajes etc.
+
+
+
+![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. UX Check (Usability Testing) 
