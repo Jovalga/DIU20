@@ -91,3 +91,9 @@ En este último punto vemos que MuseMap aporta una guía de estilo para su aplic
 ----------------
 
 ![Patrones de Diseño y Guidelines](https://github.com/Jovalga/DIU20/blob/master/P3/Patrones%20de%20dise%C3%B1o%20y%20Guidelines.jpg "Patrones de Diseño y Guidelines")
+
+He usado cuatro colores básicos, siendo negro y blanco dos colores muy usados hoy en día, elegantes y que crean una buena base para cualquier app, mientras que para destacar me he decantado por dos colores con una paleta de azul-verde.
+
+Con respecto a la tipografía he decidido usar la fuente <em>Kozuka Gothic Pro</em> ya que resulta elegante y muy fácil de leer, además de que es una fuente que contempla todos los caracteres del alfabeto castellano (acentos y caracter ñ).
+
+Los iconos han sido escogidos de fontawesome.io y se usarán para remarcar opciones como buscar, subir archivo, eventos, mensajes etc.
