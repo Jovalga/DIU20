@@ -155,6 +155,7 @@ MuseApp realiza un UX-Case Study muy completo, partiendo de analizar rápidament
 
 Tras esto siguen todos los pasos parecidos a los que hemos realizado en esta asignatura con la diferencia de que ellos realizan una matriz 4x4 para analizar aquellas funciones a implementar atendiendo a una relación <em>coste / recompensa</em>. Este aspecto es el que más me ha llamado la atención, ya que es una forma muy rápida y práctica de saber qué implementar y qué no  y ver así aquellas funciones que, pese a que estaría bien tenerlas, el esfuerzo de la implementación traería grandes problemas.
 
+[Ver análisis completo](https://github.com/Jovalga/DIU20/blob/master/P3/An%C3%A1lisis%20de%20MuseMap.pdf "Ver análisis completo")
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -172,6 +173,7 @@ Con respecto a la tipografía he decidido usar la fuente <em>Kozuka Gothic Pro</
 
 Los iconos han sido escogidos de fontawesome.io y se usarán para remarcar opciones como buscar, subir archivo, eventos, mensajes etc.
 
+[Ver Guidelines](https://github.com/Jovalga/DIU20/blob/master/P3/Patrones%20de%20dise%C3%B1o%20y%20Guidelines.jpg "Ver guidelines")
 
 
 ![Método UX](img/mockup.png)  3.d Video
