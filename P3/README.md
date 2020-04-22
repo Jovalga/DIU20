@@ -7,4 +7,8 @@
 
 
 1 - Análisis de MuseMap
+----------------
 
+
+2 - Patrones de diseño y Guidelines
+----------------
