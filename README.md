@@ -151,7 +151,6 @@ He realizado mediante la herramienta de draw.io los siguientes Wireframes:
 [Ver Wireframes](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/README.md "Wireframes")
 
 De forma opcional hay unos pocos diseños orientados a web:
-https://github.com/Jovalga/DIU20/tree/master/P2/Wireframe%20Web%20(Opcional)
 [Ver Wireframes Web (Opcional)](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe%20Web%20(Opcional)/README.md "Wireframes Web (Opcional)")
 
 ## Paso 3. Make (Prototyping) 
