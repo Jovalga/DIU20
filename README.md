@@ -111,14 +111,20 @@ Como conclusión decir que **Badi** es un sitio muy orientado a la sencillez, mi
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
-La idea más interesante sería añadir una agenda cultural de modo que se puedan publicar eventos a los que la gente pueda ir. También mencionar el añadido de ayuda por voz entre otros.
+La idea más interesante sería añadir una <strong>agenda cultural</strong> de modo que se puedan publicar eventos a los que la gente pueda ir, sean usuarios registrados o no (esto último sólo en algunos casos). Estos eventos también aparecerán sugeridos cuando se alquile una habitación, para así dar más valor al producto y ofrecer experiencias a los clientes.
+
+También mencionar el añadido de ayuda por voz entre otros.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Definir "Tasks" y "Sitemap" ... 
+
+He realizado el siguiente User Task Matrix para ver las nuevas tareas para la nueva aplicación y destacar de éstas las más importantes, ya sea por frecuencia de uso, o por tratarse de funciones de las que dependen otras como puede ser, por ejemplo, la función de <em>Publicar un Evento</em>. Se ha dividido en dos grupos, <em>Usuarios registrados</em> y <em>Usuarios Visitantes</em>, y se han puntuado las tareas en función del uso que se estima que tendrán.
 
 [Mi User Task Matrix](https://github.com/Jovalga/DIU20/blob/master/P2/User%20Task%20Matrix.jpg "User Task Matrix")
+
+Con respecto al SiteMap tenemos en un primer nivel las funciones principales, y bajo éstas, las funciones dependientes de ellas. Vamos a destacar mucho <em>Encuentra tu habitación</em> y <em>Publica tu habitación</em> ya que considero que son las funciones principales de la app.
 
 [Mi Sitemap](https://github.com/Jovalga/DIU20/blob/master/P2/Sitemap.jpg "SiteMap")
 
@@ -132,6 +138,8 @@ Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
+Se presenta a continuación el Labelling. He procurado que los <em>labels</em> utilizados tengan el mayor significado posible, y se ha aportado una explicación acerca de todos los <em>labels</em> escogidos y que se encuetran en el SiteMap, para así entenderlo mejor.
+
 [Mi Labelling](https://github.com/Jovalga/DIU20/blob/master/P2/Labelling.jpg "Labelling")
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -139,8 +147,12 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
-[Ver Wireframes](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/README.md
- "Wireframes")
+He realizado mediante la herramienta de draw.io los siguientes Wireframes:
+[Ver Wireframes](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe/README.md "Wireframes")
+
+De forma opcional hay unos pocos diseños orientados a web:
+https://github.com/Jovalga/DIU20/tree/master/P2/Wireframe%20Web%20(Opcional)
+[Ver Wireframes Web (Opcional)](https://github.com/Jovalga/DIU20/blob/master/P2/Wireframe%20Web%20(Opcional)/README.md "Wireframes Web (Opcional)")
 
 ## Paso 3. Make (Prototyping) 
 
