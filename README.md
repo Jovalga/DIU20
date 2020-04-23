@@ -47,7 +47,7 @@ He seleccionado a las siguientes personas:
 
 [Cristian Romero](https://github.com/Jovalga/DIU20/blob/master/P1/Cristian%20Romero.jpg "Persona 3")
 
-He seleccionado a estas tres personas porque creo que pueden ofrecer puntos de vista diferentes unos de otros.
+He seleccionado a estas tres personas porque ofrecen puntos de vista muy diferentes unos de otros.
 
 
 
