@@ -153,7 +153,9 @@ Término | Significado
 
 MuseApp realiza un UX-Case Study muy completo, partiendo de analizar rápidamente si es factible la aplicación que quieren llevar a cabo y realizando un análisis de la competencia así como un mapa de empatía y mapa de afinidad para conocer a sus potenciales usuarios y saber explorar la necesidad que cubriría esta app.
 
-Tras esto siguen todos los pasos parecidos a los que hemos realizado en esta asignatura con la diferencia de que ellos realizan una matriz 4x4 para analizar aquellas funciones a implementar atendiendo a una relación <em>coste / recompensa</em>. Este aspecto es el que más me ha llamado la atención, ya que es una forma muy rápida y práctica de saber qué implementar y qué no  y ver así aquellas funciones que, pese a que estaría bien tenerlas, el esfuerzo de la implementación traería grandes problemas.
+Como idea principal hay que destacar que es muy importante crear un <strong>mapa de empatía y un mapa de afinidad</strong> en aquellos casos en los que vayamos a desarrollar una aplicación nueva, desconociendo el comportamiento de potenciales usuarios, y sobre todo, con la que tengamos que crear una necesidad.
+
+Además, cabe destacar de este análisis (como punto a tener muy en cuenta), el hecho de no realizar el <strong>SiteMap</strong> en un punto tan tardío del UX-Case Study, ya que ante cualquier error, el coste de realizar de nuevo los wireframes <em>Hi-fi</em> puede ser muy alto.
 
 [Ver análisis completo](https://github.com/Jovalga/DIU20/blob/master/P3/An%C3%A1lisis%20de%20MuseMap.pdf "Ver análisis completo")
 
