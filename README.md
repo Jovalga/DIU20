@@ -85,7 +85,7 @@ He escogido estas tres experiencias porque creo que reflejan tres roles muy comu
 
 ### Comentario:
 
-Como conclusión decir que **Badi** es un sitio muy orientado a la sencillez, minimalista, y que intenta que todo sea lo más sencillo posible.
+Como conclusión decir que **Badi** es un sitio muy orientado a la sencillez, minimalista, y que intenta que todo sea lo más intuitivo posible, de modo que cualquier usuario pueda completar sin problemas cualquier tarea que se proponga dentro de esta aplicación.
 
 
 
