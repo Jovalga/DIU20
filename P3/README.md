@@ -2,6 +2,7 @@
 
 
 - Análisis de MuseMap
+- Logotipo
 - Patrones de diseño y Guidelines
 - Mi historia
 
