@@ -3,11 +3,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2_JVG.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: 4Live
 
-Descripción: 
+Descripción: Aplicación para alquilar pisos por habitaciones o completos. Inluye una agenda cultural para ver los eventos y espectáculos más cercanos a tu nuevo alojamiento.
 
-Logotipo: 
+Logotipo: [Logo 4Live](https://github.com/Jovalga/DIU20/blob/master/Logos/Logo_completo.png "Logo 4Live")
 
 Miembros
  * :bust_in_silhouette:   Jorge Valenzuela García     :octocat:     
