@@ -87,7 +87,26 @@ Finalmente han realizado el SiteMap usando sus últimos diseños digitales (<em>
 En este último punto vemos que MuseMap aporta una guía de estilo para su aplicación muy clara y sencilla, pero aún no puedo compararla con mi proyecto debido a que son pasos que realizaré posteriormente en los documentos de esta práctica.
 
 
-2 - Patrones de diseño y Guidelines
+
+
+2 - Logotipo
+----------------
+
+Para crear los logos he usado Photoshop. He creado dos logos, uno será un logo más horizontal (como el que se ve al principio de este documento) y otro con forma cuadrada, que será el icono. De esta forma podremos situar el logo en sitios como cabeceras o dentro de banners, mientras que para los avatares de las RRSS como Twitter, Facebook o para los favicon se usará el icono.
+
+Por motivos de desarrollo normalmente con tener iconos de tamaño 512x512 y 192x192 nos será suficiente para desarrollar la aplicación, pero siempre es bueno tener más diseños de nuestro icono (del logotipo también) con diferentes resoluciones para que se adapten lo mejor posible a todas las pantallas (256x256 por ejemplo).
+
+Los logotipos son los siguientes:
+
+![Logo Completo 192x108](https://github.com/Jovalga/DIU20/blob/master/Logos/Logo_Completo_192x108.png "Logo Completo 192x108")
+[Logo Completo 1920x1080](https://github.com/Jovalga/DIU20/blob/master/Logos/Logo_completo.png "Logo Completo 1920x1080")
+![Icono 192x192](https://github.com/Jovalga/DIU20/blob/master/Logos/Icono_192x192.png "Icono 192x192")
+[Icono 512x512](https://github.com/Jovalga/DIU20/blob/master/Logos/Icono_512x512.png "Icono 512x512")
+
+
+
+
+3 - Patrones de diseño y Guidelines
 ----------------
 
 ![Patrones de Diseño y Guidelines](https://github.com/Jovalga/DIU20/blob/master/P3/Patrones%20de%20dise%C3%B1o%20y%20Guidelines.jpg "Patrones de Diseño y Guidelines")
