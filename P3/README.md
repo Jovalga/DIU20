@@ -117,3 +117,10 @@ He usado cuatro colores básicos, siendo negro y blanco dos colores muy usados h
 Con respecto a la tipografía he decidido usar la fuente <em>Kozuka Gothic Pro</em> ya que resulta elegante y muy fácil de leer, además de que es una fuente que contempla todos los caracteres del alfabeto castellano (acentos y caracter ñ).
 
 Los iconos han sido escogidos de fontawesome.io y se usarán para remarcar opciones como buscar, subir archivo, eventos, mensajes etc.
+
+
+
+4 - Mi historia
+----------------
+https://www.youtube.com/watch?v=l33-C6XFg_0
+
