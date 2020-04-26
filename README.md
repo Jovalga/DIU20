@@ -206,6 +206,8 @@ Los iconos han sido escogidos de fontawesome.io y se usarán para remarcar opcio
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
+Para ver el video acceda al siguiente enlace:
+https://www.youtube.com/watch?v=l33-C6XFg_0
 
 ## Paso 4. UX Check (Usability Testing) 
 
