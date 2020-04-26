@@ -175,6 +175,18 @@ Además, cabe destacar de este análisis (como punto a tener muy en cuenta), el 
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+Para crear los logos he usado Photoshop. He creado dos logos, uno será un logo más horizontal (como el que se ve al principio de este documento) y otro con forma cuadrada, que será el icono. De esta forma podremos situar el logo en sitios como cabeceras o dentro de banners, mientras que para los avatares de las RRSS como Twitter, Facebook o para los favicon se usará el icono.
+
+Por motivos de desarrollo normalmente con tener iconos de tamaño 512x512 y 192x192 nos será suficiente para desarrollar la aplicación, pero siempre es bueno tener más diseños de nuestro icono (del logotipo también) con diferentes resoluciones para que se adapten lo mejor posible a todas las pantallas (256x256 por ejemplo).
+
+Los logotipos son los siguientes:
+
+![Logo Completo 192x108](https://github.com/Jovalga/DIU20/blob/master/Logos/Logo_Completo_192x108.png "Logo Completo 192x108")
+[Logo Completo 1920x1080](https://github.com/Jovalga/DIU20/blob/master/Logos/Logo_completo.png "Logo Completo 1920x1080")
+![Icono 192x192](https://github.com/Jovalga/DIU20/blob/master/Logos/Icono_192x192.png "Icono 192x192")
+[Icono 512x512](https://github.com/Jovalga/DIU20/blob/master/Logos/Icono_512x512.png "Icono 512x512")
+
+
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
