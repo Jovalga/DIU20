@@ -5,7 +5,7 @@ Grupo: DIU2_JVG.  Curso: 2019/20
 
 Proyecto: 4Live
 
-Descripción: Aplicación para alquilar pisos por habitaciones o completos. Inluye una agenda cultural para ver los eventos y espectáculos más cercanos a tu nuevo alojamiento.
+Descripción: Aplicación para alquilar pisos por habitaciones o completos. Incluye una agenda cultural para ver los eventos y espectáculos más cercanos a tu nuevo alojamiento.
 
 Logotipo: ![Logo 4Live](https://github.com/Jovalga/DIU20/blob/master/Logos/Logo_Completo_192x108.png "Logo 4Live")
 
