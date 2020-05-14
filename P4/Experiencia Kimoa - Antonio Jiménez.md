@@ -1,3 +1,0 @@
-### Experiencia Kimoa - Antonio Jiménez
-----------------
-
