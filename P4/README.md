@@ -24,6 +24,9 @@ Como punto negativo decir que les ha faltado algo de valor a su propuesta, ya qu
 [DIU3.Kimoa](https://github.com/Bagamo/DIUPRACTICAS "DIU3.Kimoa") --> [Hoja de evaluación de Kimoa](https://github.com/Jovalga/DIU20/blob/master/P4/DIU3.Kimoa_review.xls
  "Hoja de evaluación de Kimoa")
 
+Tras evaluar a este grupo se ve que tienen una propuesta aceptable pero algo falta de originalidad, algo que les haga diferenciarse del resto. Con respecto al diseño aportado es muy pobre, hubiese sido necesario más contenido para entender mejor la propuesta ya que queda todo muy abstracto.
+Aún así han realizado el proyecto de inicio a fin completando todas las tareas con un buen resultado.
+
 
 ## User Testing - Antonio Jiménez
 
