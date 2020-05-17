@@ -236,6 +236,12 @@ Mis asignaciones ha sido:
 
 >>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
+[Experiencia HORAPI](https://github.com/Jovalga/DIU20/blob/master/P4/Experiencia%20HORAPI%20-%20Antonio%20Jim%C3%A9nez.md "Experiencia HORAPI")
+
+[Experiencia MAF](https://github.com/Jovalga/DIU20/blob/master/P4/Experiencia%20MAF%20-%20Antonio%20Jim%C3%A9nez.md "Experiencia MAF")
+
+[Experiencia Kimoa](https://github.com/Jovalga/DIU20/blob/master/P4/Experiencia%20Kimoa%20-%20Antonio%20Jim%C3%A9nez.md "Experiencia Kimoa")
+
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
@@ -244,6 +250,13 @@ Mis asignaciones ha sido:
 
 >>> Valoración personal 
 
+Los tres grupos han realizado un buen trabajo, quedando en ranking de la siguinte forma:
+
+1º MAF (<strong>Puntuación 88</strong>): Este grupo ha hecho un trabajo formidable, siendo un UX Case Study a tener en cuenta y para tomar de ejemplo.
+
+2º HORAPI (<strong>Puntuación 70</strong>): Han realizado muy buen trabajo, pero hay ciertos aspectos a mejorar, como pueden ser el SiteMap y Labelling que era algo pobre con respecto al resto del trabajo.
+
+3º Kimoa (<strong>Puntuación 64</strong>): Su trabajo es bueno, pero en general se podrían haber mejorado aspectos de este trabajo como la propuesta de diseño, o el SiteMap.
 
 
 ## Paso 5. Evaluación de Accesibilidad  
