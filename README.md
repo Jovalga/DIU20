@@ -221,11 +221,13 @@ https://www.youtube.com/watch?v=l33-C6XFg_0
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 Mis asignaciones ha sido:
+
+
 <ul>
- <li>DIU1.HORAPI</li>
- <li> <s>DIU2.M&J</s> (por problemas a la hora de encontrar el contenido he cambiado al grupo DIU2.MAF)</li>
- <li>DIU2.MAF</li>
- <li>DIU3.Kimoa</li>
+ <li> [DIU1.HORAPI](https://github.com/diegogaraur/DIU20 "DIU1.HORAPI") </li>
+ <li> <s>[DIU2.M&J](https://github.com/MarioGenol/DIU20 "DIU2.M&J")</s> (por problemas a la hora de encontrar el contenido he cambiado al grupo DIU2.MAF) </li>
+ <li> [DIU2.MAF](https://github.com/franmolsan/DIU20 "DIU2.MAF") </li>
+ <li> [DIU3.Kimoa](https://github.com/Bagamo/DIUPRACTICAS "DIU3.Kimoa") </li>
 </ul>
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
