@@ -220,6 +220,13 @@ https://www.youtube.com/watch?v=l33-C6XFg_0
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
+Mis asignaciones ha sido:
+<ul>
+ <li>DIU1.HORAPI</li>
+ <li> <s>DIU2.M&J</s> (por problemas a la hora de encontrar el contenido he cambiado al grupo DIU2.MAF)</li>
+ <li>DIU2.MAF</li>
+ <li>DIU3.Kimoa</li>
+</ul>
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
