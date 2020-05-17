@@ -40,4 +40,14 @@ Bien, al entrar la aplicación le muestra varias opciones, (tantas como Couchsur
 	Experiencia Kimoa
 
 
+
+
 ## Conclusiones
+
+Los tres grupos han realizado un buen trabajo, quedando en ranking de la siguinte forma:
+
+1º MAF (<strong>Puntuación 88</strong>): Este grupo ha hecho un trabajo formidable, siendo un UX Case Study a tener en cuenta y para tomar de ejemplo.
+
+2º HORAPI (<strong>Puntuación 70</strong>): Han realizado muy buen trabajo, pero hay ciertos aspectos a mejorar, como pueden ser el SiteMap y Labelling que era algo pobre con respecto al resto del trabajo.
+
+3º Kimoa (<strong>Puntuación 64</strong>): Su trabajo es bueno, pero en general se podrían haber mejorado aspectos de este trabajo como la propuesta de diseño, o el SiteMap.
