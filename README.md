@@ -223,11 +223,11 @@ https://www.youtube.com/watch?v=l33-C6XFg_0
 Mis asignaciones ha sido:
 
 
-- [DIU1.HORAPI](https://github.com/diegogaraur/DIU20 "DIU1.HORAPI")
+- [DIU1.HORAPI](https://github.com/diegogaraur/DIU20 "DIU1.HORAPI") --> [Hoja de evaluación de HORAPI](https://github.com/Jovalga/DIU20/blob/master/P4/DIU2.HORAPI_review.xls "Hoja de evaluación de HORAPI")
 
 - <s>[DIU2.M&J](https://github.com/MarioGenol/DIU20 "DIU2.M&J")</s> (por problemas a la hora de encontrar el contenido he cambiado al grupo DIU2.MAF)
 
- - [DIU2.MAF](https://github.com/franmolsan/DIU20 "DIU2.MAF")
+ - [DIU2.MAF](https://github.com/franmolsan/DIU20 "DIU2.MAF") --> [Hoja de evaluación de MAF](https://github.com/Jovalga/DIU20/blob/master/P4/DIU2.MAF_review.xls "Hoja de evaluación de MAF")
  
  - [DIU3.Kimoa](https://github.com/Bagamo/DIUPRACTICAS "DIU3.Kimoa")
 
