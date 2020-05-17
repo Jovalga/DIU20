@@ -21,8 +21,8 @@ Como punto negativo decir que les ha faltado algo de valor a su propuesta, ya qu
 
 ## Caso 3
 
-[DIU3.Kimoa](https://github.com/Bagamo/DIUPRACTICAS "DIU3.Kimoa")
-
+[DIU3.Kimoa](https://github.com/Bagamo/DIUPRACTICAS "DIU3.Kimoa") --> [Hoja de evaluación de Kimoa](https://github.com/Jovalga/DIU20/blob/master/P4/DIU3.Kimoa_review.xls
+ "Hoja de evaluación de Kimoa")
 
 
 ## User Testing - Antonio Jiménez
