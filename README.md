@@ -222,7 +222,6 @@ https://www.youtube.com/watch?v=l33-C6XFg_0
 
 Mis asignaciones ha sido:
 
-
 - [DIU1.HORAPI](https://github.com/diegogaraur/DIU20 "DIU1.HORAPI") --> [Hoja de evaluación de HORAPI](https://github.com/Jovalga/DIU20/blob/master/P4/DIU1.HORAPI_review.xls "Hoja de evaluación de HORAPI")
 
 - <s>[DIU2.M&J](https://github.com/MarioGenol/DIU20 "DIU2.M&J")</s> (por problemas a la hora de encontrar el contenido he cambiado al grupo DIU2.MAF)
